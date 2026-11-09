@@ -1,0 +1,7 @@
+Git quick start
+
+git status: Shows the current state of your working directory and which changes are tracked or untracked.
+
+git add: Stages selected changes so they are ready to be committed.
+
+git commit: Records the staged changes as a new commit in the repository history.
